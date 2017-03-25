@@ -1,0 +1,161 @@
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.read.624.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.write.624.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.read.839.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.write.839.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.read.962.tlog
+C:\Users\Mario\Desktop\Licoreria\Licoreria\Licoreria\obj\x86\Debug\GenerateResource.write.962.tlog
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+F:\Proyecto Ing de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto F. Ing. de Software\Proyecto Ing de Software\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csprojResolveAssemblyReference.cache
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\Reyy2\Desktop\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\Omar\Documents\Omar's document\CUCEI\7mo semestre\Fundamentos de Ingenieria de Software\Proyecto\Proyecto F. Ing. de Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csprojResolveAssemblyReference.cache
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.manifest
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.application
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe.manifest
+C:\Users\pinguirasec\Music\Proyecto-final-de-Fundamentos-de-Ing-de-Software\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.application
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.config
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.pdb
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Softmonkey.accdb
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe.manifest
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.application
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.exe
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form1.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form10.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form11.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form12.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form2.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form3.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form4.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form5.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form6.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form7.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form8.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Form9.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.Properties.Resources.resources
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.exe.manifest
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\obj\x86\Debug\Licoreria.application
+C:\Users\Alberto\Desktop\semestre2017a\Proyecto Final\CODIGO\Licoreria\Licoreria\Licoreria\bin\Debug\Licoreria.pdb
